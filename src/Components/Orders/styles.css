@@ -1,0 +1,99 @@
+.custom-tab-panel {
+  padding-left: 10px;
+}
+
+.tabs-container {
+  width: 100%;
+  margin-top: 10px;
+}
+
+.tabs-header {
+  border-bottom: 1px solid #CDD6DB;
+}
+
+.tab-label {
+  font-size: 12px !important;
+  color: #697E85;
+  text-transform: none;
+}
+
+.tab-selected {
+  color: #052E2B !important;
+  font-weight: 600;
+  font-family: Inter;
+  border-color: black;
+}
+
+.tab-indicator {
+  background-color: #052E2B !important;
+  height: 2px;
+}
+
+.custom-table {
+  min-width: 700px;
+}
+
+
+.custom-table-head {
+  background-color: #E8ECED;
+  color: black;
+  border-bottom: 1px solid black;
+  border-top: 1px solid #CDD6DB;
+}
+
+.custom-table-body {
+  font-size: 14px;
+}
+
+.custom-table-row:nth-of-type(odd) {
+  background-color: white;
+}
+
+.appbar {
+  margin-left: 80px !important;
+  background: Transparent !important;
+  box-shadow: 0px 0px !important;
+}
+
+.toolbar {
+  display: flex !important;
+  justify-content: space-between !important;
+}
+
+.summaryTable {
+  margin-top: 15px !important;
+}
+
+.supplierinfo {
+  display: flex;
+}
+
+.supplierdata {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px 140px 10px 0px;
+}
+
+.rating {
+  padding: 0;
+  margin-top: 5px;
+}
+
+.summaryicondetails {
+  display: flex;
+  padding-top: 10px;
+}
+
+.displayflex {
+  display: flex;
+}
+
+.orderDetails {
+  display: flex;
+  margin-left: 32px;
+}
+
+.dateLabel {
+  display: flex;
+  justify-content: space-between;
+}
